@@ -29,7 +29,7 @@ export class PokemonService {
 
   async findAll() {
     //const pokemon = await this.pokemonModel.;
-    return ;
+    return;
   }
 
   async findOne(term: string) {
